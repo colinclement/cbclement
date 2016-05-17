@@ -1,12 +1,13 @@
 # Site Settings
 title: Colin Clement 
-email: colin.clement@gmail.com 
-description: >
-  A guide to getting started with Jekyll.
+email: colin.clement@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  A website about Colin. 
 baseurl: ""
-url: "http://colinclement.github.io/cbclement"
-github_username:  colin.clement 
-# Build Settings
+url: "https://colinclement.github.io/cbclement" # the subpath of your site, e.g. /blog/
+github_username:  colin.clement
+
+# Build settings
 sass:
   sass_dir: _sass
 include: ['_pages']
