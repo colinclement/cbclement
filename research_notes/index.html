@@ -3,10 +3,12 @@ layout: default
 ---
 
 <h4>Research Notes</h4>
+<p>Collecting cool things I have learned.</p>
+
 {% for post in site.posts %}
     {% if post.categories contains 'notes' %}
-        <time>{{ post.date | date: "%F" }}</time>
-        <h3><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
+    <h3><time>{{ post.date | date: "%F" }}</time> <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
     {% endif %}
 {% endfor %}
+
 
