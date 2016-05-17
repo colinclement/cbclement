@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about
+permalink: /about/
 ---
 
 Colin is a physics graduate student at Cornell University, where he studies condensed matter physics with James Sethna.
