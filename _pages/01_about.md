@@ -4,7 +4,10 @@ title: About
 permalink: /about/
 ---
 
-About content goes here.
+Colin is a physics graduate student at Cornell University, where he studies condensed matter physics with James Sethna.
 
-* A list item
-* Another list item
+In his free time Colin likes to:
+
+  *  Play bluegrass and classical mandolin
+  *  Bake bread and cook
+

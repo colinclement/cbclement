@@ -1,13 +1,15 @@
 ---
 layout: default
-category: blog
+category: notes
 ---
 
-<h4>Blog</h4>
+<h4>Research Notes</h4>
+<p>Collecting cool things I have learned.</p>
+
 {% for post in site.posts %}
-    {% if post.categories contains 'blog' %}
+    {% if post.categories contains 'notes' %}
     <h3><time>{{ post.date | date: "%F" }}</time> <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
     {% endif %}
 {% endfor %}
 
-<p>subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+
