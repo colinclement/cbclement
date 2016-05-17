@@ -5,7 +5,7 @@ category: blog
 
 <h4>Blog</h4>
 {% for post in site.posts %}
-    {% if post.category contains 'blog' %}
+    {% if post.categories contains 'blog' %}
     <h3><time>{{ post.date | date: "%F" }}</time> <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
     {% endif %}
 {% endfor %}

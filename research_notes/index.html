@@ -7,7 +7,7 @@ category: notes
 <p>Collecting cool things I have learned.</p>
 
 {% for post in site.posts %}
-    {% if post.category contains 'notes' %}
+    {% if post.categories contains 'notes' %}
     <h3><time>{{ post.date | date: "%F" }}</time> <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
     {% endif %}
 {% endfor %}
