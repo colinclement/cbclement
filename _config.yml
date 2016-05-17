@@ -4,7 +4,8 @@ email: colin.clement@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   A website about Colin. 
 baseurl: ""
-url: "http://cbclement.com" # the subpath of your site, e.g. /blog/
+#url: "http://cbclement.com" # the subpath of your site, e.g. /blog/
+url: "http:colinclement.github.io/cbclement.com" # the subpath of your site, e.g. /blog/
 github_username:  colin.clement
 
 # Build settings

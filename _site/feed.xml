@@ -4,10 +4,10 @@
     <title>Colin Clement</title>
     <description>A website about Colin. 
 </description>
-    <link>http://cbclement.com/</link>
-    <atom:link href="http://cbclement.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 17 May 2016 16:56:51 -0400</pubDate>
-    <lastBuildDate>Tue, 17 May 2016 16:56:51 -0400</lastBuildDate>
+    <link>http:colinclement.github.io/cbclement.com/</link>
+    <atom:link href="http:colinclement.github.io/cbclement.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 17 May 2016 17:01:40 -0400</pubDate>
+    <lastBuildDate>Tue, 17 May 2016 17:01:40 -0400</lastBuildDate>
     <generator>Jekyll v3.0.5</generator>
     
     <!---->
@@ -29,8 +29,8 @@
 
 </description>
         <pubDate>Mon, 16 May 2016 17:09:14 -0400</pubDate>
-        <link>http://cbclement.com/blog/2016/05/16/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://cbclement.com/blog/2016/05/16/welcome-to-jekyll.html</guid>
+        <link>http:colinclement.github.io/cbclement.com/blog/2016/05/16/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http:colinclement.github.io/cbclement.com/blog/2016/05/16/welcome-to-jekyll.html</guid>
         
         
         <category>blog</category>
