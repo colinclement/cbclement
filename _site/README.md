@@ -1,2 +1,0 @@
-# cbclement.com
-My website
