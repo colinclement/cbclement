@@ -1,10 +1,9 @@
 ---
 layout: post
-category: notes
+categories: notes
 title:  "Testing separation of blog and notes!"
 date:   2016-06-16 12:09:14
 author: Not Colin!
-categories: research 
 ---
 
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
