@@ -3,7 +3,7 @@ title: Colin Clement
 email: colin.clement@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   A guide to getting started with Jekylll
-baseurl: ""
+baseurl: "/cbclement.com"
 url: "http://cbclement.com" # the subpath of your site, e.g. /blog/
 github_username:  colin.clement
 
