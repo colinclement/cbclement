@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: notes
-title:  "Testing separation of blog and notes!"
+title:  "Testing separation"
 date:   2016-06-16 12:09:14
 author: Not Colin!
 ---
