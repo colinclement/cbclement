@@ -4,5 +4,6 @@ title: Contact
 permalink: /contact/
 ---
 
-* [{{ site.email }}](mailto:colin.clement@gmail.com)
-* At Cornell: PSB 425A
+Contact content goes here.
+
+My e-mail is [email@something.com](mailto:email@something.com).

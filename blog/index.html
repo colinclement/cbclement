@@ -1,13 +1,12 @@
 ---
 layout: default
-category: blog
 ---
 
-<h4>Blog</h4>
+<h2>Blog</h2>
 {% for post in site.posts %}
-    {% if post.categories contains 'blog' %}
-    <h3><time>{{ post.date | date: "%F" }}</time> <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
-    {% endif %}
+		<time>{{ post.date | date: "%b %-d, %Y" }}</time>
+		<h3><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
 {% endfor %}
 
 <p>subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+
