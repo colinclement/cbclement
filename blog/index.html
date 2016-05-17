@@ -1,13 +1,12 @@
 ---
 layout: default
 category: blog
-title: Blog
 ---
 
 <h4>Blog</h4>
 {% for post in site.posts %}
     {% if post.categories contains 'blog' %}
-    <h3><time>{{ post.date | date: "%F" }}</time> <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
+    <h3><time>{{ post.date | date: "%F" }}</time> <a href="{{ post.url | prepend: site.github.url }}">{{ post.title }}</a></h3>
     {% endif %}
 {% endfor %}
 

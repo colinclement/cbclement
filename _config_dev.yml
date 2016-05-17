@@ -2,7 +2,7 @@
 title: Colin Clement 
 email: colin.clement@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  A guide to getting started with Jekylll
+  A website about Colin.
 baseurl: ""
 url: "http://localhost:4000" # the subpath of your site, e.g. /blog/
 github_username:  colin.clement
