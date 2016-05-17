@@ -3,8 +3,8 @@ title: Colin Clement
 email: colin.clement@gmail.com 
 description: >
   A guide to getting started with Jekyll.
-baseurl: "/cbclement"
-url: "http://colinclement.github.io"
+baseurl: ""
+url: "http://colinclement.github.io/cbclement"
 github_username:  colin.clement 
 # Build Settings
 sass:
