@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: notes
+category: notes
 title:  "Testing separation"
 date:   2016-06-16 12:09:14
 author: Not Colin!
