@@ -5,7 +5,7 @@ date:   2015-11-17 2:17:33
 categories: current-reconstruction
 ---
  
-[In another post]({% post_url notes/_posts/current_reconstruction/2015-10-14-gradients-of-nll %}) 
+[In another post]({% post_url 2015-10-14-gradients-of-nll %}) 
 I computed the negative-loglikelihood of an image given current dipole fields $g$ with
 a quadratic prior probability on $g$. The quadratic priors penalize sharp edges too much,
 causing the reconstruction to suffer near line currents. To remedy this I switch to a 
@@ -29,7 +29,7 @@ $$\begin{eqnarray}
 \end{eqnarray}$$
 
 for horizontal ($x$) derivatives $D_h$ and vertical ($y$) derivatives $D_v$. Then, as in 
-[Gradients of NLL]({% post_url currentreconstruction/2015-10-14-gradients-of-nll %}) we define
+[Gradients of NLL]({% post_url 2015-10-14-gradients-of-nll %}) we define
 
 $$
 \mathcal{L} = \frac{1}{2\sigma^2}\left(|| {(\phi^0 - \phi_{ext}) - Mg}||^2 + 
