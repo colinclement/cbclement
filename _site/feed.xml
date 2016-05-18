@@ -4,11 +4,30 @@
     <title>Colin Clement</title>
     <description>A website about Colin.
 </description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 17 May 2016 18:34:15 -0400</pubDate>
-    <lastBuildDate>Tue, 17 May 2016 18:34:15 -0400</lastBuildDate>
+    <link>http://localhost:4000/cbclement/</link>
+    <atom:link href="http://localhost:4000/cbclement/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 17 May 2016 22:54:31 -0400</pubDate>
+    <lastBuildDate>Tue, 17 May 2016 22:54:31 -0400</lastBuildDate>
     <generator>Jekyll v3.0.5</generator>
+    
+    <!---->
+    
+    <!---->
+    
+    <!---->
+      <item>
+        <title>Another post</title>
+        <description>&lt;p&gt;This might show up.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 15 Jun 2016 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/cbclement/blog/2016/06/15/another-blog.html</link>
+        <guid isPermaLink="true">http://localhost:4000/cbclement/blog/2016/06/15/another-blog.html</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
+      <!---->
     
     <!---->
       <item>
@@ -28,9 +47,9 @@
 &lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
 
 </description>
-        <pubDate>Mon, 16 May 2016 17:09:14 -0400</pubDate>
-        <link>http://localhost:4000/blog/2016/05/16/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/2016/05/16/welcome-to-jekyll.html</guid>
+        <pubDate>Mon, 16 May 2016 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/cbclement/blog/2016/05/16/this-is-a-blog-post.html</link>
+        <guid isPermaLink="true">http://localhost:4000/cbclement/blog/2016/05/16/this-is-a-blog-post.html</guid>
         
         
         <category>blog</category>

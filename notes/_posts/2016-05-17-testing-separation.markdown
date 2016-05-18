@@ -1,8 +1,8 @@
 ---
 layout: post
-category: blog
-title:  "This is a blog post"
-date:   2016-05-16 21:09:14
+category: notes
+title:  "Testing separation"
+date:   2016-06-17 12:09:14
 author: Not Colin!
 ---
 
