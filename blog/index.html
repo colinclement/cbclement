@@ -3,9 +3,9 @@ layout: default
 category: blog
 ---
 
-<h4>Blog</h4>
+<h3>Blog</h3>
 {% for post in site.categories.blog %}
-    <h3><time>{{ post.date | date: "%F" }}</time> <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
+    <h5><time>{{ post.date | date: "%F" }}</time> <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h5>
 {% endfor %}
 
 <p>subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>

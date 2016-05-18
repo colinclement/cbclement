@@ -3,11 +3,11 @@ layout: default
 category: notes
 ---
 
-<h4>Research Notes</h4>
+<h3>Research Notes</h3>
 <p>Collecting cool things I have learned.</p>
 
 {% for post in site.categories.notes  %}
-    <h3><time>{{ post.date | date: "%F" }}</time> <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
+    <h5><time>{{ post.date | date: "%F" }}</time> <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h5>
 {% endfor %}
 
 

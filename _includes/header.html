@@ -1,3 +1,4 @@
+<!--
 <aside>
   <div class="container">
     <nav>
@@ -12,6 +13,42 @@
   </div>
 </aside>
 
+<div class="container">
+    <div class="row">
+        <div class = "twelve columns">
+            <nav>
+                <ul>
+                 {% for page in site.pages %} {% if page.title %}
+                    <li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
+                 {% endif %} {% endfor %}
+                    <li><a href="{{ "/blog" | prepend: site.baseurl }}">Blog</a></li>
+                    <li><a href="{{ "/notes" | prepend: site.baseurl }}">Research Notes</a></li>
+                </ul>
+            </nav>
+        </div>
+    </div>
+</div>
+-->
+
+	<div class="container">
+        <div class="row">
+		    <div id="nav" class="fourteen columns">
+               <ul>
+                {% for page in site.pages %} {% if page.title %}
+                   <li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
+                {% endif %} {% endfor %}
+                   <li><a href="{{ "/blog" | prepend: site.baseurl }}">Blog</a></li>
+                   <li><a href="{{ "/notes" | prepend: site.baseurl }}">Research Notes</a></li>
+               </ul>
+		    </div>
+        </div>
+    </div>
+
+	
 <!--<header>-->
-  <h1><a href="{{ site.baseurl }}/">{{ site.title }}</a></h1>
+<div class="container">
+  <div class="u-full-width">
+    <h1><a href="{{ site.baseurl }}/">{{ site.title }}</a></h1>
+  </div>
+</div>
 <!--</header>-->
