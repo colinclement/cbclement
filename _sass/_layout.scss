@@ -40,7 +40,7 @@ a:hover {
 }
 header {
     background: $header;
-    padding: 0px 15px;
+    padding: 20px 15px;
     text-align: center;
     margin: 50px 0 0;
     height: 20vh;//50vh;
@@ -64,12 +64,12 @@ time {
 /* Aside */
 
 aside {
-    position: fixed;
+    position: fixed; //Stays on top
     top: 0;
     left: 0;
     background: #fff;
     width: 100%;
-    z-index: 2;
+    z-index: 2; //Site on top of content 
     border-bottom: 1px solid lighten($light, 30%);
     box-shadow: 0px 1px 1px RGBA(4, 25, 54, .1);
     nav {
