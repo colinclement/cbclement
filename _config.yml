@@ -13,5 +13,5 @@ sass:
 include: ['_pages']
 kramdown:
   input: GFM
-
+lsi: true
 future: true
