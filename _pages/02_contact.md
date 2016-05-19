@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Contact
+category: mainpage
 permalink: /contact/
 ---
 

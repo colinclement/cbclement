@@ -1,7 +1,7 @@
 <div class="container">
 	<div id="nav" class="twelve columns">
        <ul>
-        {% for page in site.pages %} {% if page.title %}
+        {% for page in site.pages %} {% if page.category == "mainpage" %}
            <li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
         {% endif %} {% endfor %}
            <li><a href="{{ "/blog" | prepend: site.baseurl }}">Blog</a></li>
@@ -9,7 +9,6 @@
        </ul>
 	</div>
 </div>
-
 	
 <div id="globalheader" class="full-width-div">
   <h1><a href="{{ site.baseurl }}/">{{ site.title }}</a></h1>
