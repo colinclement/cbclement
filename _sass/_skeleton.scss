@@ -239,10 +239,13 @@ p {
         z-index: 10;
         top: 0;
         left: 0;
+        border-bottom-style: solid;
+        border-bottom-color: $header;
         ul { 
             margin: 0;
             padding: 0;
             list-style: none;
+            text-align: center;
         }
         li {
             display: inline;
@@ -263,7 +266,6 @@ p {
            }
         }
     }
-
 }
 
 
