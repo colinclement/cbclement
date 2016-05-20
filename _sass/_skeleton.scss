@@ -249,16 +249,16 @@ p {
     }
     a {
       text-decoration: none;
-      padding: 6px 15px 6px 15px;
+      padding: 6px 15px 7px 15px; /*size of colored link box*/
       font-family: $font-style; 
       color: $font-color;
-      line-height: 30px; //margin top height
+      line-height: 30px; /*margin top height*/
       &:hover,
       &:active {
         display: inline;
         background: $heading;
         text-decoration: none;
-        color: $main;
+        color: $heading-font-color;
       } 
     }
   }
