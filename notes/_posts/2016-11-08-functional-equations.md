@@ -2,7 +2,7 @@
 layout: post
 title: "Functional equations"
 date: 2016-11-08 2:03:00
-categories: [statistical mechanics]
+categories: [statistical-mechanics]
 ---
 
 Functional equations show up a lot in results of the renormalization group. For example, $f(x^3)=f(x)/3$ represents the the analytic flow equation of the 1D Ising model under decimation. Another example is the scaling function of correlations of scaling fields:

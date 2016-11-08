@@ -2,7 +2,7 @@
 layout: post
 title:  "Articles on Stat-Mech and Probability theory"
 date:   2015-10-21 3:47:51
-categories: [bayesian, statistical mechanics]
+categories: [bayesian, statistical-mechanics]
 ---
 
   * E.T. Jaynes:
