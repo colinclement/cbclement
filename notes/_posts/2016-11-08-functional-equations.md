@@ -37,7 +37,7 @@ For some constant $C$. This is the classic 'scaling dimension' result.
 ### Solving $ n f(x^n) = f(x) $
 In the context of block-spin Renormalization this equation clearly intends for $n\in\mathbb{Z}$, but we can assume $n$ is any nonzero number.  This equation clearly has no unique solution for $n=1$. So to proceed with our perturbation analysis let's assume $n=1+\epsilon$.  In this case the trickiest part is expanding $x^{1+\epsilon}$. This can be done by writing it as
 
-$$ e^{(1+\epsilon)\log{x}} \sim x(1+\log{x}) $$
+$$ e^{(1+\epsilon)\log{x}} \sim x(1+\epsilon \log{x}) $$
 
 Expanding the functional equation and simplifying as above yields another seperable differential equation
 
