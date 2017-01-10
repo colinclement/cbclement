@@ -7,6 +7,7 @@
     tex2jax: {
       inlineMath: [ ['$','$'], ["\\(","\\)"] ],
       displayMath: [ ['$$','$$'], ["\\[","\\]"] ],
+      skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
       processEscapes: true
     },
     "HTML-CSS": { availableFonts: ["TeX"] }
@@ -29,7 +30,7 @@
     </main>
   </body>
 
-<script>
+<!-- <script>
   MathJax.Hub.Config({
         tex2jax: {
           skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
@@ -44,7 +45,7 @@
           }
       });
 
-</script>
+</script> -->
 
 <style>
   code.has-jax {font: inherit; font-size: 100%; background: inherit; border: inherit;}
