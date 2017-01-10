@@ -10,6 +10,7 @@ github_username:  colin.clement
 # Build settings
 sass:
   sass_dir: _sass
+  style: compressed
 include: ['_pages']
 kramdown:
   input: GFM
