@@ -1,5 +1,18 @@
 <!DOCTYPE html>
 <!-- <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script> -->
+<html>
+  {% include head.html %}
+
+  <body>
+    {% include header.html %}
+    <main>
+      <article>
+        {{ content }}
+      </article>
+      {% include footer.html %}
+    </main>
+  </body>
+
 <script type="text/x-mathjax-config">
   MathJax.Hub.Config({
     extensions: ["tex2jax.js"],
@@ -17,18 +30,6 @@
   src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
 </script>
 
-<html>
-  {% include head.html %}
-
-  <body>
-    {% include header.html %}
-    <main>
-      <article>
-        {{ content }}
-      </article>
-      {% include footer.html %}
-    </main>
-  </body>
 
 <!-- <script>
   MathJax.Hub.Config({
