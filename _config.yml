@@ -16,3 +16,4 @@ kramdown:
   input: GFM
 lsi: true
 future: true
+permalink: pretty
