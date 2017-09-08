@@ -12,3 +12,4 @@ In his free time Colin likes to:
   *  Play bluegrass and classical mandolin
   *  Bake bread and cook
 
+### [Curriculum Vitae]({{ site.url }}/cv)
