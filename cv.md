@@ -94,7 +94,6 @@ layout: page
 <table style="width:100%"> 
 
 <tr>
-<td class="col-md-3"><img src="images/publications/savitzky2017image.png"/></td>
 <td>
     <strong>Image Registration for low signal-to-noise cryoSTEM data</strong><br>
     B. Savitzky, I. El Baggari, C. <b>Clement</b>, E. Waite, R. Hovden, and L. Kourkoutis<br>
@@ -106,7 +105,6 @@ layout: page
 
 
 <tr>
-<td class="col-md-3"><img src="images/publications/clement2017current.png"/></td>
 <td>
     <strong>Current Reconstruction from Flux Images by Bayesian Inference</strong><br>
     C. <b>Clement</b>, K. Nowack, and J. Sethna<br>
@@ -118,7 +116,6 @@ layout: page
 
 
 <tr>
-<td class="col-md-3"><img src="images/publications/clement2017information.png"/></td>
 <td>
     <strong>Information Geometry and Effective Hamiltonians of Spin Glasses</strong><br>
     C. <b>Clement</b>, D. Liarte, A. Middleton, and J. Sethna<br>
@@ -130,7 +127,6 @@ layout: page
 
 
 <tr>
-<td class="col-md-3"><img src="images/publications/clement2017bayesian.png"/></td>
 <td>
     <strong>Bayesian Theory of Image Registration: Analysis of Bias</strong><br>
     C. <b>Clement</b> and J. Sethna<br>
