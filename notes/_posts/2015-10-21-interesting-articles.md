@@ -13,3 +13,4 @@ categories: [bayesian, statistical-mechanics]
 
   * [The Backwards Arrow of Time of the Coherently Bayesian Statistical Mechanic](http://arxiv.org/abs/cond-mat/0410063): This article points out inconsistencies with time evolution of observables, updating distributions of observables with Bayes theorem, and identifying Shannon and thermodynamic entropies. The simplest resolution seems to support not identifying Shannon and thermodynamic entropies. The author has [a nice post about the subject.](http://bactra.org/notebooks/max-ent.html)
 
+  * [Comprehensive notes on graduate-level algebra](http://www.jmilne.org/math/CourseNotes/index.html)
