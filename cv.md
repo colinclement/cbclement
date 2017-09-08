@@ -345,7 +345,7 @@ Python, C, CUDA, FORTRAN, HTML, CSS, Unix
 
 <tr>
 <td>
-    <strong>Phase Diagram of Electrostatically Doped $\mathrmSrTiO_3$</strong><br>
+    <strong>Phase Diagram of Electrostatically Doped $\mathrm{SrTiO}_3$</strong><br>
     Y. Lee, C. <b>Clement</b>, J. Hellerstedt, J. Kinney, L. Kinnischtzke, X. Leng, S. Snyder, and A. Goldman<br>
     PRL 2011
     [J7] [<a href='https://link.aps.org/doi/10.1103/PhysRevLett.106.136809' target='_blank'>pdf</a>] <br>
